@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-### Hi I am a Mechanical Engeneer from <img src="https://img.icons8.com/?size=100&id=dI_UvHpmmL30&format=png&color=000000" width="20"/><b> Medellín, Colombia. </b> I am lookig for data analysis programming knowledge. 
+### Hi welcome to mi page,
+### I am a Mechanical Engeneer from <img src="https://img.icons8.com/?size=100&id=dI_UvHpmmL30&format=png&color=000000" width="20"/><b> Medellín, Colombia. </b> I am lookig for data analysis programming knowledge. 
 
 <h3>Things I code with</h3>
 <p>
