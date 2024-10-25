@@ -23,6 +23,9 @@ SC:  which stands for Sergi Code, is the code base of.
 * SC : Sergi Code.
 * LC : Linkedin Curse.
 * PF : Promgramming Fundamnetals.
+* TT : Technical test
+* CG : ChatGPT
   
   
 001: a consecutive number.
+
