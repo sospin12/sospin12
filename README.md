@@ -5,7 +5,7 @@ Welcome to mi page, </br> I am a Mechanical Engeneer from <img src="https://img.
 <h3>Things I code with</h3>
 <p>
   <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 
